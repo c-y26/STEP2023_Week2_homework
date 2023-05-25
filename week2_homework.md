@@ -5,6 +5,7 @@
 - アルゴリズムの説明
 - 工夫した点
 - 実行結果   
+![task1_result](STEP2023_Week2_homework/step2023_week2_hash_table.pdf)
 
 ## 宿題2
 現実の大規模なデータベースでは、ハッシュテーブルではなく木構造が使われることが多い理由
